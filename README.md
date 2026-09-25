@@ -1,9 +1,9 @@
 # CE474-SW
-Solutions to Dr. Rivadeh's CE474: Software Engineering (Sharif University of Technology - Fall 2023) Assignments
+Solutions to Dr. Mehran Rivadeh's CE474: Software Engineering (Sharif University of Technology - Fall 2023) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments and exams, course slides, and other useful resources for the CE474: Software Engineering course at Sharif University of Technology, Fall 2023, taught by Dr. Rivadeh.
+This repository contains solutions to the assignments and exams, course slides, and other useful resources for the CE474: Software Engineering course at Sharif University of Technology, Fall 2023, taught by Dr. Mehran Rivadeh.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ In the "Research" folder, you will find the solution to the research challenge w
 
 ## Slides
 
-The "Slides" folder contains the course slides used by Dr. Rivadeh during the lectures.
+The "Slides" folder contains the course slides used by Dr. Mehran Rivadeh during the lectures.
 
 ## Source
 
